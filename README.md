@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+My **first** repository
+
+I try [GitHub](http://github.com "GitHub") !
+
